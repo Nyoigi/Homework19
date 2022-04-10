@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework19</string>
+
+    <string name="fragment_main_button_show_picture">Show picture</string>
+</resources>
